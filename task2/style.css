@@ -1,0 +1,10 @@
+.modal{
+    display: none;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 50%;
+    transform: translate(-50%);
+    height: 400px;
+    width: 400px;
+}
